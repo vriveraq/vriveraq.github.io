@@ -1,8 +1,16 @@
 
 <html>
 <body>
-  
+ 
+ <!-- Default sidebar -->
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    SIDE BAR TEST
+  </div>
+</div>
+
 <p align="center">
+  
 <img src="images/vriveraq_photo.jpg" width="300">
 </p>
   
