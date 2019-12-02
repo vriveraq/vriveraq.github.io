@@ -10,8 +10,9 @@
 </body>
 
 <h1> Contact </h1>
-<a href= "https://twitter.com/MissVRivera"> Twitter </a>
-<a href= "https://www.linkedin.com/in/vriveraq/"> LinkedIn </a>
+
+<li > <a href= "https://twitter.com/MissVRivera"> Twitter </a> </li>
+<li> <a href= "https://www.linkedin.com/in/vriveraq/"> LinkedIn </a> </li>
 
 
 </html>
