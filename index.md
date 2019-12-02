@@ -1,7 +1,7 @@
 <html>
 <body>
 
-# Welcome!
+<h1> Welcome! </h1>
 
 <p>  I am Vanessa, a newly minted Mathematics Ph.D. with a passion for telling stories through numbers using mathematical models, data science, science communication, and education. </p>
 
