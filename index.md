@@ -2,10 +2,10 @@
 <html>
 <body>
  
- <!-- Default sidebar -->
+<!-- Modified sidebar -->
 <div class="sidebar">
-  <div class="container sidebar-sticky">
-    SIDE BAR TEST
+  <div class="container">
+    ...
   </div>
 </div>
 
