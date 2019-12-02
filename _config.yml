@@ -16,10 +16,10 @@ author-img: vriveraq_photo.jpg # add your photo
 about-author: Mathematics Ph.D. with a passion for telling stories through numbers using mathematical models, data science, 
   science communication, and education.  # add description
 social-twitter: MissVRiveraQ # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-facebook: # add your Facebook handle 
 social-github: vriveraq # add your Github handle
 social-linkedin: vriveraq # add your Linkedin handle
-social-email: # add your Email address
+social-email: vrivera9021@gmail.com # add your Email address
 
 # Disqus
 # discus-identifier: mr-brown # add your discus identifier
