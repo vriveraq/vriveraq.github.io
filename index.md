@@ -1,7 +1,9 @@
 <html>
 <body>
 
-<p> Welcome! I am Vanessa, a newly minted Mathematics Ph.D. with a passion for telling stories through numbers using mathematical models, data science, science communication, and education. </p>
+# Welcome!
+
+<p>  I am Vanessa, a newly minted Mathematics Ph.D. with a passion for telling stories through numbers using mathematical models, data science, science communication, and education. </p>
 
 <p>  Currently, seeking full-time positions in Belgium (BE). Also, co-editor of the American Mathematical Society <a href ="https://blogs.ams.org/blogonmathblogs/"> Blog on Math Blog </a> and junior associate at <a href="http://www.lathisms.org/"> Lathisms </a>. </p> 
   
