@@ -1,7 +1,6 @@
 
 <html>
 <body>
-<h1>Hello World</h1>
 
 <p align="center">
 <img src="images/vriveraq_photo.jpg" width="300">
