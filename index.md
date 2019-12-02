@@ -9,8 +9,8 @@
   <a href="https://github.com/vriveraq/vriveraq.github.io/blob/master/CV.md"> Curriculum Vitae </a>
     
   <h3> Contact </h3>
-  <li > <a href= "https://twitter.com/MissVRivera"> Twitter </a> </li>
-  <li> <a href= "https://www.linkedin.com/in/vriveraq/"> LinkedIn </a> </li>
+  <i class="fab fa-twitter-square"></i> <a href= "https://twitter.com/MissVRivera"> Twitter 
+  <i class="fab fa-linkedin"></i><a href= "https://www.linkedin.com/in/vriveraq/"> LinkedIn </a> 
  
  </div>
 </div>
