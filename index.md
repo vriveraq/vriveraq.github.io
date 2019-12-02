@@ -1,7 +1,11 @@
 <html>
 <body>
 
-<p> Welcome! I am Vanessa, a newly minted Mathematics Ph.D. from the University of Illinois at Urbana-Champaign, with 5+ years of experience in interdisciplinary and computational projects in R, Python, and MATLAB. My main interests mathematical modeling and machine learning for social good. I also enjoy taking pictures, drawing, and bowling.</p>
+<p> Welcome! I am Vanessa, a newly minted Mathematics Ph.D. with a passion for telling stories through numbers using mathematical models, data science, science communication, and education. </p>
+
+<p>  Currently, seeking full-time positions in Belgium (BE). Also, co-editor of the American Mathematical Society <a href ="https://blogs.ams.org/blogonmathblogs/"> Blog on Math Blog </a> and junior associate at <a href="http://www.lathisms.org/"> Lathisms </a>. </p> 
+  
+<p> I also enjoy taking pictures, drawing, and bowling.</p>
 
 </body>
 </html>
