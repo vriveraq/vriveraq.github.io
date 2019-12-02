@@ -2,15 +2,6 @@
 <html>
 <body>
   
-<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-</nav>
-
 <p align="center">
 <img src="images/vriveraq_photo.jpg" width="300">
 </p>
@@ -20,7 +11,7 @@
 
 <h1> Contact </h1>
 <a href= "https://twitter.com/MissVRivera"> Twitter </a>
-<a href= "https://www.linkedin.com/in/vriveraq/> LinkedIn </a>
+<a href= "https://www.linkedin.com/in/vriveraq/"> LinkedIn </a>
 
 
 </html>
