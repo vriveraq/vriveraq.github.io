@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: blogpost
 title: Blog
 date: 2019-12-03 00:00:00 +0300
 description: # Add post description (optional)
@@ -11,7 +11,7 @@ tags: [Blog Posts] # add tag
 <body>
 Testing
   
-{% for post in paginator.posts %}
+{% for post in paginator.blogposts %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
