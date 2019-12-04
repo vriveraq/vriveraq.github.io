@@ -1,0 +1,39 @@
+
+---
+layout: main
+---
+<article class="article-blogpage">
+  <div class="blogpage-content">
+    {% if blogpost.img %}
+    <div class="blogpage-cover-image">
+      <figure>
+        <img class="blogpage-image" src={{ "/assets/img/" | prepend: site.baseurl | append : blogpage.img}} alt="{{blogpage.title}}">
+        {% if blogpage.fig-caption %}
+          <figcaption>{{blogpage.fig-caption}}</figcaption>
+        {% endif %}
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    {% else %}
+    {% endif %}
+    <div class="wrap-content">
+      <header class="header-blogpage">
+        <h1 class="blogpage-title">{{blogpage.title}}</h1>
+        <div class="blogpage-date"><span>{{blogpage.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+      </header>
+      {{content | markdownify}}
+      <div class="blogpage-footer">
+        <div class="blogpage-share">
+          <a href="https://twitter.com/intent/tweet?text={{ blogpost.title }}&url={{ site.url }}{{ blogpage.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ blogpage.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
+          <a href="https://plus.google.com/share?url={{ site.url }}{{ blogpage.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
+        </div>
+        <div class="blogpage-tag">
+          {% for tag in blogpage.tags %}
+            <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
+          {% endfor %}
+        </div>
+      </div>
+      #{% include disqus.html %}
+    </div> <!-- End Wrap Content -->
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->
