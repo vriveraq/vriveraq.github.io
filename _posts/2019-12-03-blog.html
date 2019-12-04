@@ -5,14 +5,12 @@ date: 2019-12-03 00:00:00 +0300
 description: # Add post description (optional)
 img: js-1.png # Add image post (optional)
 tags: [Blog Posts] # add tag
-pagination:
-  enabled: true
 ---
 <html>
 <body>
 Testing
   
-{% for post in paginator.blogposts %}
+{% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
