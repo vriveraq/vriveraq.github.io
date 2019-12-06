@@ -1,0 +1,9 @@
+---
+layout: page
+title: Projects
+date: 2019-12-06 00:00:00 +0300
+description: Selected projects with short descriptions
+img: scott-webb-p-0lWFknspg-unsplash.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Projects, Coding, Python, R, SQL] 
+---
