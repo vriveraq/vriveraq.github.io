@@ -21,7 +21,7 @@ This work was done in conjunction with both our advisors Dr. Zoi Rapti and Dr. C
 
 As a Latina, I've become very aware of the challenges members from underrepresented group face in the math community. I've writen several posts offering my own (and shared) reflections on how to build a more inclusive environment that encourages and promotes diversity and the importance of community. You can read them here: <a href="https://www.ams.org/journals/notices/201911/rnoti-p1831.pdf"> Broadening the Horizons
 of Teaching and Diversity in
-Mathematics Departments</a> (with Marissa Loving, Simone Sisneros-Thity, Sunny Xiao), <a href="https://qubeshub.org/news/blog/2018/03/reflections-on-the-latinx-in-the-mathematical-sciences-conference-2018" > Reflections of the LatMat Conference 2018</a>, <a href="https://www.ams.org/journals/notices/201805/rnoti-p547.pdf"> Towards Embracing Diverse
+Mathematics Departments</a> (with Marissa Loving, Simone Sisneros-Thity, Sunny Xiao), <a href="https://qubeshub.org/news/blog/2018/03/reflections-on-the-latinx-in-the-mathematical-sciences-conference-2018" > Reflections of the LatMat Conference 2018</a>, and <a href="https://www.ams.org/journals/notices/201805/rnoti-p547.pdf"> Towards Embracing Diverse
 Mathematical Communities</a>.
 
 ## Outreach
