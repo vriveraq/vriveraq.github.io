@@ -8,7 +8,7 @@ fig-caption: Photo by Alexa Williams at Unsplash. # Add figcaption (optional)
 tags: [Projects, Coding, Python, R, SQL] 
 ---
 
-{% for post in paginator.posts %}
+{% for post in paginator.blogposts %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
