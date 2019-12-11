@@ -9,18 +9,16 @@ tags: [Projects, Coding, Python, R, SQL]
 ---
 This page features some of the fun projects I've worked on. 
 
-{% for post in paginator.blogposts %}
-<article class="post">
-  {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl/projects | append : post.img}})" href="{{post.url | prepend: site.baseurl/projects}}"></a>
-  {% else %}
-  {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl/projects}}">{{post.title}}</a></h2>
-    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
-  </div>
-</article>
-{% endfor %}
-{% include pagination.html%} 
+<h2>Projects</h2>
+		 <div class="row">
+				  <article class="6u 12u$(xsmall) work-item">
+								<a href="http://htmlpreview.github.io/?https://github.com/angelabaltes/angelabaltes.github.io/blob/master/Metropolitan%20City%20Crime%20Analysis/Metropolitan%20Crime_10_11_19.html" class="image fit thumb"><img src="images/pexels-photo-923681.jpeg" alt="" /></a>
+								<h3>Crime Analysis</h3>
+								<p>Supervised Learning: Police Incidents within various census tracts in Albuquerque, New Mexico were predicted based upon factors such as median age and income using supervised learning and statistical approaches. This analysis can be beneficial for law enforcement to gauge where to potentially expect calls to originate from.</p><br>
+								<div class="github-link">
+									<a href="https://github.com/angelabaltes/angelabaltes.github.io/tree/master/Metropolitan%20City%20Crime%20Analysis" class="icon fa-github"></a>
+								</div>
+			</article>
+      </div> 
+							
+						
