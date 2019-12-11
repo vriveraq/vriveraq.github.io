@@ -13,7 +13,7 @@ site-twitter:  #if your site has a twitter account, enter it here
 # Author Settings
 author: Vanessa Rivera-Qui&ntilde;ones, PhD # add your name
 author-img: vriveraq_photo.jpg # add your photo
-about-author: Data Scientist| Math Biologist | Educator. Changing the world one model at a time. <br> <a src="assets/docs/VRiveraQuinones_DataScientist_Resume.pdf" > Resume </a> | <a src="assets/docs/VRiveraQuinones_DataScientist_CV.pdf" > CV </a>  # add description
+about-author: Data Scientist| Math Biologist | Educator. Changing the world one model at a time. <br> <a src="docs/VRiveraQuinones_DataScientist_Resume.pdf" > Resume </a> | <a src="docs/VRiveraQuinones_DataScientist_CV.pdf" > CV </a>  # add description
 social-twitter: MissVRiveraQ # add your Twitter handle
 social-facebook: # add your Facebook handle 
 social-github: vriveraq # add your Github handle
