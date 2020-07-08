@@ -24,7 +24,9 @@ of Teaching and Diversity in
 Mathematics Departments</a> (with Marissa Loving, Simone Sisneros-Thity, Sunny Xiao), <a href="https://qubeshub.org/news/blog/2018/03/reflections-on-the-latinx-in-the-mathematical-sciences-conference-2018" > Reflections of the LatMat Conference 2018</a>, and <a href="https://www.ams.org/journals/notices/201805/rnoti-p547.pdf"> Towards Embracing Diverse
 Mathematical Communities</a>.
 
-## Outreach
+## Service 
+This summer I am co-facilitating the Mathematics Summer Workshop for Achieving Greater Graduate Educational Readiness(<a href="https://sites.google.com/view/mathswagger/home"> Math SWAGGER </a>) program with an amazing team of fellow mathematicians Michael Young, Pamela Harris, Shelby Wilson, Alexander Diaz, and Luis Sordo-Viera. You can read more on what the program hopes to achieve and why we think its crucial to create a space where underreprented minorities can thrive in this <a href="https://blogs.ams.org/mathmentoringnetwork/2020/05/13/math-swagger/"> blog post </a>. 
+
 Back in 2017, in collaboration with the I-STEM initiative, I designed a one-day course to showcase to 30 Illinois high-school students the power of mathematics in modeling disease spread. This was so fun! Using the game VAX , students were given a limited number of vaccines and applied them to a network (breaking a link from one person to another) to try to stop a disease from spreading. Check out a summary here: <a href = "http://istem.illinois.edu/news/istemcamp.17.html" > I-STEM Multidisciplinary Summer Program Exposes UHS Athletes to Different STEM Departments/Units </a>.
 
 <em>"In a website game, called VAX, students were given a limited number of “quarantines” (breaking a link from one person to another) to try to stop a disease from spreading. Once the disease got started, however, it spread rapidly from person to person. The students were quite engaged as they scrambled to try stop the spread of the disease—with varying degrees of success." -  Elizabeth Innes <em>
