@@ -1,7 +1,7 @@
 ---
 layout: page
 title: In the News
-date: 2019-12-10 00:00:00 +0300
+date: 2020-07-20 00:00:00 +0300
 description: Articles featuring my research, outreach, and profile. # Add post description (optional)
 img: erol-ahmed-aIYFR0vbADk-unsplash.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -17,7 +17,7 @@ In recent years, some articles have feature my research, outreach efforts, and p
 This work was done in conjunction with both our advisors Dr. Zoi Rapti and Dr. Carla C&aacute;ceres. I was amazed that a biological assumption was overturned with new data! To explore the implications of this discovery, we used a differential equations model to study how the immune responses (clearance) and physiological barriers (resistance) impact the disease dynamics of our system. Check out a brief article about our work: <a href="https://las.illinois.edu/news/2019-05-14/intersection-plankton-and-numbers"> "At the intersection of plankton and numbers" </a>.
 
 ## Personal Story
-<a href="http://www.lathisms.org/"> Lathisms.org's</a>, goal is to provide an accessible platform that features prominently the extent of the research and mentoring contributions of Latinxs and Hispanics in different areas of the Mathematical Sciences. I was extremely honored to be featured in their <a href="http://www.lathisms.org/monday-october-1st-2018.html"> calendar </a> and to be interviewed in their <a href="http://lathisms.com/2019Podcasts/Rivera-Quinones%20Lathisms.mp3" > podcast series </a>. You can find out more about this initiative in my blog post <a href="https://blogs.ams.org/blogonmathblogs/2019/09/12/a-tribute-to-hispanic-heritage-month/"> "A tribute to Hispanic Heritage Month" </a>. 
+<a href="http://www.lathisms.org/"> Lathisms.org's</a>, goal is to provide an accessible platform that features prominently the extent of the research and mentoring contributions of Latinxs and Hispanics in different areas of the Mathematical Sciences. I was extremely honored to be featured in their <a href="http://www.lathisms.org/monday-october-1st-2018.html"> calendar </a> and to be interviewed in their <a href="http://lathisms.com/2019Podcasts/Rivera-Quinones%20Lathisms.mp3" > podcast series </a>. You can find out more about this initiative in my blog post <a href="https://blogs.ams.org/blogonmathblogs/2019/09/12/a-tribute-to-hispanic-heritage-month/"> "A tribute to Hispanic Heritage Month" </a>. Also, I was very excited to be featured in the AMS Next Generation of Mathematics <a href="https://www.ams.org/journals/notices/201809/rnoti-p1082.pdf"> poster </a>, in which I share the best advice piece of advice I received in graduate school. 
 
 As a Latina, I've become very aware of the challenges members from underrepresented group face in the math community. I've writen several posts offering my own (and shared) reflections on how to build a more inclusive environment that encourages and promotes diversity and the importance of community. You can read more here: <a href="https://www.ams.org/journals/notices/201911/rnoti-p1831.pdf"> Broadening the Horizons
 of Teaching and Diversity in
