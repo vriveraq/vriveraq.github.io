@@ -10,21 +10,18 @@ tags: [Teaching, Outreach, Research, Mathematics]
 
 # Research Interests
 
-My thesis used tools from adaptive dynamics and differential equations to tackle problems in biology concerning the evolution of disease and epidemics. In particular, my work focused on the disease dynamics of the <i> Daphnia-Metschnikowia <i> system in collaboration with the <a href="https://publish.illinois.edu/cacereslab/> Cáceres Lab </a>. At this next step in my career, I would love to utilize my skills to contribute to the ever-growing challenges of sustainability, health-care, and education through a social justice lense. 
+My thesis used tools from adaptive dynamics and differential equations to tackle problems in biology concerning the evolution of disease and epidemics. In particular, my work focused on the disease dynamics of the <i> Daphnia-Metschnikowia </i> system in collaboration with the <a href="https://publish.illinois.edu/cacereslab/"> Cáceres Lab </a>. At this next step in my career, I would love to utilize my skills to contribute to the ever-growing challenges of sustainability, health-care, and education through a social justice lense. 
 
 
 # Teaching
-
 I love teaching (and learning)! With mathematics you can dive into ideas and build complex concepts from smaller "a-ha!" moments into great insights. This love translates into how I view, share, and learn math. 
 
 ## Teaching Philosophy:
 
-"The book of nature is written in the language of mathematics."- Galileo Galilei
-"Tell me and I forget, teach me and I may remember, involve me and I learn."- Benjamin Franklin
-If we want to understand nature and the world that surrounds us, we must understand mathematics. Learning mathematics can be an intimidating task for many students. Similar to a language, mathematics builds upon itself.
+<em> "The book of nature is written in the language of mathematics." </em>- Galileo Galilei
+<em> "Tell me and I forget, teach me and I may remember, involve me and I learn." </em>- Benjamin Franklin
 
-One must learn the basic vocabulary, proper grammar and practice it frequently to be a fluent speaker. A clear understanding of the basic concepts and vocabulary provides students the building blocks to achieve a higher understanding of more difficult concepts.
-As an instructor, my goal is to provide students with those building blocks and become a facilitator for reaching new levels of understanding. I hope to engage students by creating a classroom environment that fosters participation and group work.
+Learning mathematics can be an intimidating task for many students. Similar to a language, mathematics builds upon itself. One must learn the basic vocabulary, proper grammar and practice it frequently to be a fluent speaker. A clear understanding of the basic concepts and vocabulary provides students the building blocks to achieve a higher understanding of more difficult concepts. The goal of mathematics education is to guide the students through the process of becoming critical thinkers. To me that means moving from thinking of in terms of “recipes” into developing their own understanding and approaches to problem-solving. As a teacher, I aim to motivate students to become involved in their learning process by discovering connections between mathematics and their relevant life-experiences. 
 
 Tips to succeed in mathematics
 * Practice makes perfect!
