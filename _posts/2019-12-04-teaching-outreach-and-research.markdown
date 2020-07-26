@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research, Teaching, and Outreach
-date: 2019-12-04 00:00:00 +0300
+date: 2020-07-14 00:00:00 +0300
 description: Selected projects with short descriptions
 img: math-oberholster-venita-pixabay.jpg # Add image post (optional)
 fig-caption: Photo by Obersholster Venita at Pixbay. # Add figcaption (optional)
